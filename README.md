@@ -20,7 +20,7 @@ An end-to-end HR analytics project simulating the workforce of a large, multi-co
 - [📈 4. Executive HR Dashboard](#-4-executive-hr-dashboard)
 - [🤖 5. Attrition Risk Model](#-5-attrition-risk-model)
 - [🔍 Key Findings](#-key-findings)
-- [🛠️ Tech Stack](#-tech-stack)
+- [🛠️ Tech Stack](#%EF%B8%8F-tech-stack)
 - [📂 Project Structure](#-project-structure)
 - [▶️ Getting Started](#-getting-started)
 - [⚠️ Limitations](#-limitations)
