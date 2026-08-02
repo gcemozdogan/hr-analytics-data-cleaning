@@ -22,8 +22,8 @@ An end-to-end HR analytics project simulating the workforce of a large, multi-co
 - [🔍 Key Findings](#-key-findings)
 - [🛠️ Tech Stack](#%EF%B8%8F-tech-stack)
 - [📂 Project Structure](#-project-structure)
-- [▶️ Getting Started](#-getting-started)
-- [⚠️ Limitations](#-limitations)
+- [▶️ Getting Started](#%EF%B8%8F-getting-started)
+- [⚠️ Limitations](#%EF%B8%8F-limitations)
 - [📄 License](#-license)
 
 ## 📖 Overview
